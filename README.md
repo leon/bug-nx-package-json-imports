@@ -1,5 +1,7 @@
 # BugGeneratePackageJson
 
+https://github.com/nrwl/nx/issues/23163
+
 In a node app where i use `date-fns` I only import them using this type of imports.
 
 ```ts
